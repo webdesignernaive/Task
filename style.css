@@ -131,8 +131,19 @@ html,body{
     margin-top: 10px;
     font-size: 15px;
     letter-spacing: 2px;
+    cursor: pointer;
 }
-@media(max-width:400px){
+#bodyRight #ely button:hover {
+    background-color: white;
+    color: black;
+}
+
+
+
+
+
+
+@media(max-width:600px){
     #nav {
         padding: 10px 30px;
         display: flex;
