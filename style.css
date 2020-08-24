@@ -56,6 +56,7 @@ html,body{
     width: 100%;
     height: 87%;
     display: flex;
+    background-color: rgba(75, 75, 75, 0.5);
     
 }
 #bodyLeft {
@@ -108,7 +109,6 @@ html,body{
     width: 50%;
     height: 100%;
     position: relative;
-    background-color: rgba(75, 75, 75, 0.411);
 }
 #bodyRight #ely {
     position: absolute;
